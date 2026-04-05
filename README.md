@@ -1,3 +1,3 @@
 # webdevelopment-learning
 
-First git commit
+This repo will contain everything made during learning phase.
